@@ -158,6 +158,6 @@ The `sql/business_analysis.sql` file includes 12 real business questions, includ
 
 ## 👤 Author
 
-*Your Name* — Aspiring Data Analyst
-[LinkedIn](#) · [Portfolio](#) · [Email](#)
+Shobhana — Aspiring Data Analyst
+[LinkedIn](https://www.linkedin.com/in/shobhana82) · [Portfolio](https://yourusername.github.io) · [Email](mailto:shobhana8210@gmail.com)
 
